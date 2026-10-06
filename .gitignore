@@ -1,6 +1,10 @@
 # Local data
 data/raw/
+data/processed/
 *.csv
+
+# Jupyter
+.ipynb_checkpoints/
 
 # macOS
 .DS_Store
